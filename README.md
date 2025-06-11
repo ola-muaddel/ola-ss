@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ola-muaddel-shallar
 - 👀 I’m interested in learning programming 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java and web development
 
 
 <!---
