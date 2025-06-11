@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ola-ss
+- 👋 Hi, I’m @ola-muaddel-shallar
 - 👀 I’m interested in learning programming 
 - 🌱 I’m currently learning Java 
 
